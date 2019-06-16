@@ -1,4 +1,4 @@
-# vue-firebase-tutorial
+# vue-firebase-project
 
 ## Project setup
 ```
